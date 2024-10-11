@@ -1,4 +1,4 @@
-# University-schedule-organizer
+9# University-schedule-organizer
 
 A WIP that (hopefully when im finished with it) extracts all course details (no matter your specialization) from reg.ju.edu.jo. Data is organized in an SQL database (probably mySQL) and then used in a user friendly web application.
 
@@ -7,4 +7,4 @@ A WIP that (hopefully when im finished with it) extracts all course details (no 
 - The application in the beginning will probably only be used to organize CIS courses. (still need to find a way to automate the process of data structuring for ALL specilizations)
 
 
-while backend and frontend are nearly done, this will be put on pause because structuring the database and linking the frontend to the backend is turning out to be very problematic
+while backend and frontend are nearly done, this will be put on hold because structuring the database and linking the frontend to the backend is turning out to be very problematic

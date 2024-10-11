@@ -37,7 +37,7 @@ captcha_field.send_keys(Keys.RETURN)
 driver.get("https://regapp.ju.edu.jo/regapp/secured/course-schedule-plan.xhtml")
 driver.execute_script("document.body.style.zoom='25%'")
 
-file_path = 'C:\\Users\\Mohammed\\Desktop\\codes\\data.csv' #edit to your desired path
+file_path = 'C:\\Users\\Mohammed\\Desktop\\codes\\data.csv' #my path; change to yours
     
 with open(file_path, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
